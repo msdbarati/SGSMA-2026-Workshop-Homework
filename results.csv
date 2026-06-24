@@ -1,0 +1,5 @@
+name,date,method,accuracy,macro_f1
+Faith Bamidele,2026-06-24,CNN baseline,0.9556,0.9556
+Faith Bamidele,2026-06-24,Rubric (provided),0.3778,0.2487
+Faith Bamidele,2026-06-24,Rubric (YOUR rule),0.3778,0.2487
+Faith Bamidele,2026-06-24,YOUR model,0.6444,0.5867
